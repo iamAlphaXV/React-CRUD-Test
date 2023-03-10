@@ -1,0 +1,3 @@
+The following updates include:
+Styling of app
+adding functions to task input fields
